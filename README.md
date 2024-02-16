@@ -43,10 +43,9 @@ Used different charts and produced a dashboard using PowerBi.
 
 # Analytical Results
 Brief findings of this project are:
-1. They total 21,350 orders and peak hour is 12-3pm.
-
-2. 2 pizzas are typically in an order.
-  
-3.  Bestselling Pizzas The Thai Chicken Pizza, The Barbeque Chicken Pizza, The California Chicken  Pizza.
-
+1. Total sales were 817.86K and 21.35K orders last year with 60 pizzas per day average, 2 pizzas are typically in an order.
+2. Most of the orders were sold on Friday between 12-3pm.
+3. The top 5  best sellers pizzas were from Chicken, Classis and Supreme category and the bottom 5 seller pizzas were from Veggie and Supreme category.
+4.  45.89% large size pizzas were sold.
+5.  The most popular category was classic.
 
