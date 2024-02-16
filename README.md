@@ -1,7 +1,9 @@
 # Pizza-Sales-Analysis
 
 # Objective
-To create a Pizz Sales  Analytics dashboard using Power Bi.
+"Slice and Dice: Unveiling the Secrets of Pizza Sales Analysis"
+
+To create a Pizza Sales  Analytics dashboard using Power Bi.
 
 # This project aims at exploring the answers to the following questions:
 
